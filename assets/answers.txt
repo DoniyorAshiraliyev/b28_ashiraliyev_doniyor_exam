@@ -1,0 +1,5 @@
+Dynamic - hamma turni o'ziga oluvchi(hattoki null ni ham) kalit so'z. U dinamiklik xususiyatiga ega. 
+Enum - O'zgarmas ma'lumotlarni saqlovchi sinf turi bo'lib, enum kalit so'zi bilan e'lon qilinadi va identifikator nomi UpperCamelCaseda bo'ladi. Uni values propertiysi bor.
+enum MyEnum{
+
+}
